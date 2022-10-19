@@ -1,0 +1,19 @@
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 70%;
+  width: 80%;
+}
+img {
+  height: 30%;
+  width: 35%;
+}
+.heading {
+  color: #6d396b;
+  font-size: 32px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
